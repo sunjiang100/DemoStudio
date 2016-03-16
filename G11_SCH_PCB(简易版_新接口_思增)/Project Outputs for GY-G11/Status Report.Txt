@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Project [GY-G11.PRJPCB]
+   Generated File[GY-G11.BOM]
+   Generated File[GY-G11.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 13:19:20 On 2015/3/27

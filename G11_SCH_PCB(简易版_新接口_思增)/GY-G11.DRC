@@ -1,0 +1,35 @@
+Protel Design System Design Rule Check
+PCB File : \G11_SCH_PCB(简易版_新接口_思增\GY-G11.PCBDOC
+Date     : 2015-3-21
+Time     : 13:19:57
+
+Processing Rule : Hole Size Constraint (Min=0.0254mm) (Max=2.54mm) (All)
+   Violation         Pad J2-0(80.13mm,1.81mm)  Multi-Layer  Actual Hole Size = 3mm
+   Violation         Pad Free-0(79.4mm,109.84mm)  Multi-Layer  Actual Hole Size = 4mm
+   Violation         Pad Free-0(165.67mm,36.89mm)  Multi-Layer  Actual Hole Size = 4mm
+   Violation         Pad Free-0(4.3391mm,80.24mm)  Multi-Layer  Actual Hole Size = 6mm
+   Violation         Pad Free-0(5.75mm,68.51mm)  Multi-Layer  Actual Hole Size = 3.5mm
+   Violation         Pad Free-0(165.75mm,7.5mm)  Multi-Layer  Actual Hole Size = 3.5mm
+   Violation         Pad Free-0(85.76mm,68.51mm)  Multi-Layer  Actual Hole Size = 3.5mm
+   Violation         Pad Free-0(165.75mm,68.51mm)  Multi-Layer  Actual Hole Size = 3.5mm
+   Violation         Pad Free-0(5.75mm,7.5mm)  Multi-Layer  Actual Hole Size = 3.5mm
+Rule Violations :9
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=5mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 9
+Time Elapsed        : 00:00:03

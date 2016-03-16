@@ -1,0 +1,6 @@
+Record=SheetSymbol|SourceDocument=G11_ProjectLink.SCHDOC|Designator=U_G11-KeyDispPrint|SchDesignator=U_G11-KeyDispPrint|FileName=G11-KeyDispPrint.SCHDOC|SymbolType=Normal|RawFileName=G11-KeyDispPrint.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=G11_ProjectLink.SCHDOC|Designator=U_G11_GPS-GSM|SchDesignator=U_G11_GPS-GSM|FileName=G11_GPS-GSM.SCHDOC|SymbolType=Normal|RawFileName=G11_GPS-GSM.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=G11_ProjectLink.SCHDOC|Designator=U_G11_IO_ADC|SchDesignator=U_G11_IO_ADC|FileName=G11_IO_ADC.SCHDOC|SymbolType=Normal|RawFileName=G11_IO_ADC.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=G11_ProjectLink.SCHDOC|Designator=U_G11_Main|SchDesignator=U_G11_Main|FileName=G11_Main.SCHDOC|SymbolType=Normal|RawFileName=G11_Main.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=G11_ProjectLink.SCHDOC|Designator=U_G11_PowerSelfLock|SchDesignator=U_G11_PowerSelfLock|FileName=G11_PowerSelfLock.SCHDOC|SymbolType=Normal|RawFileName=G11_PowerSelfLock.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=G11_ProjectLink.SCHDOC
