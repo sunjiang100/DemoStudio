@@ -1,0 +1,28 @@
+This example program shows how to use the RTX CAN Driver on 
+'Keil MCB1700 Evaluation Board' with 
+'NXP LPC1768' microcontroller.
+
+Example functionality:
+ - send converted analog value in first byte in CAN message on 
+   CAN 2 controller every 1 second
+ - display received byte on CAN 1 controller in hexadecimal 
+   representation on 4 LEDs
+   CAN 1 controller speed: 500 kbits
+   CAN 2 controller speed: 500 kbits
+
+This example shows how to use RTX CAN Driver and how 
+to simulate analog input in uVision.
+
+You may change the value of analog input with potentiometer (AD0.2) 
+and watch the value on 4 LEDs change accordingly.
+
+The CAN_Ex1 example program is available for several targets:
+
+Simulator:     configured for software Simulator
+LPC1768 Flash: runs from Internal Flash located on chip
+               (used for production or target debugging)
+
+串口0
+串口1
+串口2
+串口3
